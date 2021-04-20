@@ -1,0 +1,46 @@
+
+body {
+	color: #333333;
+	font-family: Verdana;
+}
+h2{
+	color: #999999;
+	font-size: 16px;
+}
+h3{
+	color: #cc6600;
+	font-size: 16px;
+}
+
+#outer-wrapper {
+	width: 680px;
+	margin: 0 auto 0 auto;
+	padding: 10px;
+	
+}
+
+#header{
+	margin: 5px;
+	border-color: grey;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+}
+#header h1{
+	color: #666666;
+	font-size: 32px;
+}
+
+#main-wrapper{
+	width: 430px;
+	float: left;
+	padding: 0 0 0 10px;
+}
+
+#sidebar-wrapper{
+	width: 220px;
+	float: right;
+	padding: 16px 0 0 0;
+}
+
+
